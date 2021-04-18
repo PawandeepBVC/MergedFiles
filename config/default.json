@@ -1,0 +1,6 @@
+{
+
+  "mongoURI": "mongodb+srv://SODV2999:2999@canadian-drug-speak.zi5z5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoURI2": "mongodb+srv://umy9145:grewal822@cluster0.rldwz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "123456789"
+}
